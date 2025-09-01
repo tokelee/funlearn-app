@@ -9,10 +9,10 @@
 ## Getting Started
 
 # Clone the repository
-git clone https://github.com/username/flutter-kids-mobile-app.git
+git clone https://github.com/tokelee/funlearn-app.git
 
 # Navigate to the project folder
-cd flutter-kids-mobile-app
+cd funlearn-app
 
 # Get dependencies
 flutter pub get
