@@ -1,6 +1,5 @@
 # Flutter Project Demo App
 
-![Flutter Project Demo App](./assets/images/app-image.png)
 ![My Image](./assets/images/app-image.png)
 
 ## 🛠️ Tech Stack  
